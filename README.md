@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/vedant-deshmukh/vedant-deshmukh/blob/70df8e8e92816326c4138802a2bbc2ada6333ffb/images/top.gif)]
+![MasterHead](https://github.com/vedant-deshmukh/vedant-deshmukh/blob/70df8e8e92816326c4138802a2bbc2ada6333ffb/images/top.gif)
 
 <h1 align="center">Hi 👋, I'm Vedant Deshmukh</h1>
 <h3 align="center">A Computer Science Enthusiast!</h3>
