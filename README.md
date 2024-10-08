@@ -12,9 +12,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vedant-deshmukh](https://github.com/vedant-deshmukh)
 
-- 💬 Ask me about **Python, Data Science, C++**
+- 💬 Ask me about **Python, Data Science, C++, ETL, Machine Learning**
 
-- 📫 How to reach me **vdd27102001@gmail.com**
+- 📫 How to reach me **vedantdeshmukhworkmail@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/17_YdqiGccKBTFj_-mguypuz26-qVW9E2/view?usp=sharing](https://drive.google.com/file/d/17_YdqiGccKBTFj_-mguypuz26-qVW9E2/view?usp=sharing)
 
